@@ -170,7 +170,7 @@ main {
 
 .c-nav-btn {
   
-    &.load {
+&.load {
       &::before,
       &::after {
         animation: none;
